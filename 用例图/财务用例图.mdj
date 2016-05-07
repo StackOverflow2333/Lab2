@@ -86,7 +86,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "financial management system",
+											"text": "财务管理系统",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -257,7 +257,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "financial staff",
+											"text": "财务人员",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -541,7 +541,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "login",
+											"text": "登陆",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -852,7 +852,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "modify personal information",
+											"text": "修改个人信息",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -917,7 +917,7 @@
 									"containerExtending": false,
 									"left": 462.5,
 									"top": 164.5,
-									"width": 185.5126953125,
+									"width": 185,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -1163,7 +1163,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "inquire  books' information",
+											"text": "查询个人信息",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -1474,7 +1474,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "inquire fine information",
+											"text": "查询罚款记录",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -1539,7 +1539,7 @@
 									"containerExtending": false,
 									"left": 464.5,
 									"top": 276.5,
-									"width": 155.16455078125,
+									"width": 154,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -3433,7 +3433,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "modify the  compensation of damaged and lost books",
+											"text": "修改损坏、遗失书籍的赔偿金",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -3498,7 +3498,7 @@
 									"containerExtending": false,
 									"left": 295.5,
 									"top": 404.5,
-									"width": 342.97900390625,
+									"width": 342,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -3744,7 +3744,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "inquire and record the condition of damaged and lost books",
+											"text": "查询并记录损坏、遗失书籍的情况",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -3809,7 +3809,7 @@
 									"containerExtending": false,
 									"left": 303,
 									"top": 332.5,
-									"width": 381.2490234375,
+									"width": 381,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -4822,7 +4822,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFUhHHA/xfRWsk="
 					},
-					"name": "financial management system",
+					"name": "财务管理系统",
 					"visibility": "public"
 				},
 				{
@@ -4831,7 +4831,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFUhHHA/xfRWsk="
 					},
-					"name": "financial staff",
+					"name": "财务人员",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -5160,7 +5160,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFUhHHA/xfRWsk="
 					},
-					"name": "login",
+					"name": "登陆",
 					"visibility": "public",
 					"isAbstract": false,
 					"isFinalSpecialization": false,
@@ -5172,7 +5172,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFUhHHA/xfRWsk="
 					},
-					"name": "modify personal information",
+					"name": "修改个人信息",
 					"visibility": "public",
 					"isAbstract": false,
 					"isFinalSpecialization": false,
@@ -5184,7 +5184,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFUhHHA/xfRWsk="
 					},
-					"name": "inquire  books' information",
+					"name": "查询个人信息",
 					"visibility": "public",
 					"isAbstract": false,
 					"isFinalSpecialization": false,
@@ -5196,7 +5196,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFUhHHA/xfRWsk="
 					},
-					"name": "inquire fine information",
+					"name": "查询罚款记录",
 					"visibility": "public",
 					"isAbstract": false,
 					"isFinalSpecialization": false,
@@ -5220,7 +5220,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFUhHHA/xfRWsk="
 					},
-					"name": "modify the  compensation of damaged and lost books",
+					"name": "修改损坏、遗失书籍的赔偿金",
 					"ownedElements": [
 						{
 							"_type": "UMLInclude",
@@ -5248,7 +5248,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFUhHHA/xfRWsk="
 					},
-					"name": "inquire and record the condition of damaged and lost books",
+					"name": "查询并记录损坏、遗失书籍的情况",
 					"ownedElements": [
 						{
 							"_type": "UMLInclude",
