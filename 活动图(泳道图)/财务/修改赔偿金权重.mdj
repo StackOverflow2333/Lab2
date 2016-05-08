@@ -4,27 +4,6 @@
 	"name": "Untitled",
 	"ownedElements": [
 		{
-			"_type": "UMLModel",
-			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
-			"_parent": {
-				"$ref": "AAAAAAFF+h6SjaM2Hec="
-			},
-			"name": "Model",
-			"ownedElements": [
-				{
-					"_type": "UMLClassDiagram",
-					"_id": "AAAAAAFF+qBtyKM79qY=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "Main",
-					"visible": true,
-					"defaultDiagram": true
-				}
-			],
-			"visibility": "public"
-		},
-		{
 			"_type": "UMLActivity",
 			"_id": "AAAAAAFUi/Y4SRV8kpM=",
 			"_parent": {
@@ -964,7 +943,7 @@
 											"containerExtending": false,
 											"left": -64,
 											"top": -64,
-											"width": 86.6708984375,
+											"width": 90,
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
@@ -1415,7 +1394,7 @@
 											"containerExtending": false,
 											"left": -80,
 											"top": -80,
-											"width": 86.6708984375,
+											"width": 90,
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
@@ -1900,7 +1879,7 @@
 											"containerExtending": false,
 											"left": -16,
 											"top": -16,
-											"width": 86.6708984375,
+											"width": 90,
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
@@ -2211,7 +2190,7 @@
 											"containerExtending": false,
 											"left": -112,
 											"top": -16,
-											"width": 86.6708984375,
+											"width": 90,
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
@@ -2522,7 +2501,7 @@
 											"containerExtending": false,
 											"left": 0,
 											"top": 0,
-											"width": 86.6708984375,
+											"width": 90,
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
