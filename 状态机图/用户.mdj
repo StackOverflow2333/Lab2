@@ -3770,6 +3770,147 @@
 							"propertyLabel": {
 								"$ref": "AAAAAAFUjnFlX0sS0Zk="
 							}
+						},
+						{
+							"_type": "UMLTransitionView",
+							"_id": "AAAAAAFUj0mM3IcQ5+A=",
+							"_parent": {
+								"$ref": "AAAAAAFUjlSUub6P4Tw="
+							},
+							"model": {
+								"$ref": "AAAAAAFUj0mM3IcPgd4="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAFUj0mM3IcRIBU=",
+									"_parent": {
+										"$ref": "AAAAAAFUj0mM3IcQ5+A="
+									},
+									"model": {
+										"$ref": "AAAAAAFUj0mM3IcPgd4="
+									},
+									"visible": true,
+									"enabled": true,
+									"lineColor": "#000000",
+									"fillColor": "#ffffff",
+									"fontColor": "#000000",
+									"font": "Arial;13;0",
+									"showShadow": true,
+									"containerChangeable": false,
+									"containerExtending": false,
+									"left": 792,
+									"top": 685,
+									"width": 52,
+									"height": 13,
+									"autoResize": false,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAFUj0mM3IcQ5+A="
+									},
+									"edgePosition": 1,
+									"underline": false,
+									"text": "修改信息",
+									"horizontalAlignment": 2,
+									"verticalAlignment": 5
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAFUj0mM3IcSO5w=",
+									"_parent": {
+										"$ref": "AAAAAAFUj0mM3IcQ5+A="
+									},
+									"model": {
+										"$ref": "AAAAAAFUj0mM3IcPgd4="
+									},
+									"visible": null,
+									"enabled": true,
+									"lineColor": "#000000",
+									"fillColor": "#ffffff",
+									"fontColor": "#000000",
+									"font": "Arial;13;0",
+									"showShadow": true,
+									"containerChangeable": false,
+									"containerExtending": false,
+									"left": 833,
+									"top": 685,
+									"width": 0,
+									"height": 13,
+									"autoResize": false,
+									"alpha": 1.5707963267948966,
+									"distance": 30,
+									"hostEdge": {
+										"$ref": "AAAAAAFUj0mM3IcQ5+A="
+									},
+									"edgePosition": 1,
+									"underline": false,
+									"horizontalAlignment": 2,
+									"verticalAlignment": 5
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAFUj0mM3IcT4w4=",
+									"_parent": {
+										"$ref": "AAAAAAFUj0mM3IcQ5+A="
+									},
+									"model": {
+										"$ref": "AAAAAAFUj0mM3IcPgd4="
+									},
+									"visible": false,
+									"enabled": true,
+									"lineColor": "#000000",
+									"fillColor": "#ffffff",
+									"fontColor": "#000000",
+									"font": "Arial;13;0",
+									"showShadow": true,
+									"containerChangeable": false,
+									"containerExtending": false,
+									"left": 789,
+									"top": 686,
+									"width": 0,
+									"height": 13,
+									"autoResize": false,
+									"alpha": -1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAFUj0mM3IcQ5+A="
+									},
+									"edgePosition": 1,
+									"underline": false,
+									"horizontalAlignment": 2,
+									"verticalAlignment": 5
+								}
+							],
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"head": {
+								"$ref": "AAAAAAFUjmdaXzJpZHo="
+							},
+							"tail": {
+								"$ref": "AAAAAAFUjmdaXzJpZHo="
+							},
+							"lineStyle": 0,
+							"points": "768:712;768:692;804:692;804:760;775:760",
+							"stereotypeDisplay": "label",
+							"showVisibility": true,
+							"showProperty": true,
+							"nameLabel": {
+								"$ref": "AAAAAAFUj0mM3IcRIBU="
+							},
+							"stereotypeLabel": {
+								"$ref": "AAAAAAFUj0mM3IcSO5w="
+							},
+							"propertyLabel": {
+								"$ref": "AAAAAAFUj0mM3IcT4w4="
+							}
 						}
 					]
 				}
@@ -4184,6 +4325,33 @@
 										"$ref": "AAAAAAFUjnFlX0sOehs="
 									},
 									"name": "实现财务功能",
+									"visibility": "public",
+									"kind": "anyReceive"
+								}
+							]
+						},
+						{
+							"_type": "UMLTransition",
+							"_id": "AAAAAAFUj0mM3IcPgd4=",
+							"_parent": {
+								"$ref": "AAAAAAFUjlSUub6OT+g="
+							},
+							"source": {
+								"$ref": "AAAAAAFUjmdaXjJo0j8="
+							},
+							"target": {
+								"$ref": "AAAAAAFUjmdaXjJo0j8="
+							},
+							"visibility": "public",
+							"kind": "external",
+							"triggers": [
+								{
+									"_type": "UMLEvent",
+									"_id": "AAAAAAFUj0pC6Icjb+A=",
+									"_parent": {
+										"$ref": "AAAAAAFUj0mM3IcPgd4="
+									},
+									"name": "修改信息",
 									"visibility": "public",
 									"kind": "anyReceive"
 								}
