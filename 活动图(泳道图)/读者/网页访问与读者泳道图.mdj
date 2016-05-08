@@ -60,7 +60,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "业务逻辑接口（网站）",
+											"text": "业务逻辑接口（网页访问界面）",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 3
 										}
@@ -2643,11 +2643,11 @@
 													"containerExtending": false,
 													"left": -590,
 													"top": 288,
-													"width": 194.27001953125,
+													"width": 220.27001953125,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from 业务逻辑接口（网站）)",
+													"text": "(from 业务逻辑接口（网页访问界面）)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -3472,11 +3472,11 @@
 													"containerExtending": false,
 													"left": -665,
 													"top": 160,
-													"width": 168.27001953125,
+													"width": 220.27001953125,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from 业务逻辑接口（网站）)",
+													"text": "(from 业务逻辑接口（网页访问界面）)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -3974,7 +3974,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "业务逻辑接口（网站）",
+											"text": "业务逻辑接口（网页访问界面）",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 3
 										}
@@ -7007,7 +7007,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "业务逻辑接口（网站）",
+											"text": "业务逻辑接口（网页访问界面）",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 3
 										}
@@ -10332,7 +10332,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "业务逻辑接口（网站）",
+											"text": "业务逻辑接口（网页访问界面）",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 3
 										}
@@ -12252,11 +12252,11 @@
 													"containerExtending": false,
 													"left": 0,
 													"top": -96,
-													"width": 194.27001953125,
+													"width": 220.27001953125,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from 业务逻辑接口（网站）)",
+													"text": "(from 业务逻辑接口（网页访问界面）)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -18388,7 +18388,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFUharPx+8zbbc="
 							},
-							"name": "业务逻辑接口（网站）",
+							"name": "业务逻辑接口（网页访问界面）",
 							"visibility": "public",
 							"nodes": [
 								{
@@ -18544,7 +18544,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFUharPx+8zbbc="
 							},
-							"name": "业务逻辑接口（网站）",
+							"name": "业务逻辑接口（网页访问界面）",
 							"visibility": "public",
 							"nodes": [
 								{
@@ -18596,7 +18596,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFUharPx+8zbbc="
 							},
-							"name": "业务逻辑接口（网站）",
+							"name": "业务逻辑接口（网页访问界面）",
 							"visibility": "public"
 						},
 						{
@@ -18623,7 +18623,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFUharPx+8zbbc="
 							},
-							"name": "业务逻辑接口（网站）",
+							"name": "业务逻辑接口（网页访问界面）",
 							"visibility": "public",
 							"nodes": [
 								{

@@ -195,7 +195,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "业务逻辑接口（自助终端）",
+											"text": "业务逻辑接口（终端机界面）",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 3
 										}
@@ -3630,11 +3630,11 @@
 													"containerExtending": false,
 													"left": -80,
 													"top": 152,
-													"width": 194.27001953125,
+													"width": 207.27001953125,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from 业务逻辑接口（自助终端）)",
+													"text": "(from 业务逻辑接口（终端机界面）)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -4426,11 +4426,11 @@
 													"containerExtending": false,
 													"left": -744,
 													"top": -576,
-													"width": 194.27001953125,
+													"width": 207.27001953125,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from 业务逻辑接口（自助终端）)",
+													"text": "(from 业务逻辑接口（终端机界面）)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -4600,11 +4600,11 @@
 													"containerExtending": false,
 													"left": -104,
 													"top": 96,
-													"width": 194.27001953125,
+													"width": 207.27001953125,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from 业务逻辑接口（自助终端）)",
+													"text": "(from 业务逻辑接口（终端机界面）)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -4964,7 +4964,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "业务逻辑接口（自助终端）",
+											"text": "业务逻辑接口（终端机界面）",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 3
 										}
@@ -5914,11 +5914,11 @@
 													"containerExtending": false,
 													"left": -144,
 													"top": -296,
-													"width": 194.27001953125,
+													"width": 207.27001953125,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from 业务逻辑接口（自助终端）)",
+													"text": "(from 业务逻辑接口（终端机界面）)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -7362,11 +7362,11 @@
 													"containerExtending": false,
 													"left": -200,
 													"top": 424,
-													"width": 194.27001953125,
+													"width": 207.27001953125,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from 业务逻辑接口（自助终端）)",
+													"text": "(from 业务逻辑接口（终端机界面）)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -7520,7 +7520,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "业务逻辑接口（自助终端）",
+											"text": "业务逻辑接口（终端机界面）",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 3
 										}
@@ -10103,11 +10103,11 @@
 													"containerExtending": false,
 													"left": -608,
 													"top": 288,
-													"width": 194.27001953125,
+													"width": 207.27001953125,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from 业务逻辑接口（自助终端）)",
+													"text": "(from 业务逻辑接口（终端机界面）)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -10932,11 +10932,11 @@
 													"containerExtending": false,
 													"left": -665,
 													"top": 160,
-													"width": 194.27001953125,
+													"width": 207.27001953125,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from 业务逻辑接口（自助终端）)",
+													"text": "(from 业务逻辑接口（终端机界面）)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -11106,7 +11106,7 @@
 													"containerExtending": false,
 													"left": 0,
 													"top": 0,
-													"width": 86.6708984375,
+													"width": 90,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
@@ -11374,7 +11374,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "业务逻辑接口（自助终端）",
+											"text": "业务逻辑接口（终端机界面）",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 3
 										}
@@ -13781,11 +13781,11 @@
 													"containerExtending": false,
 													"left": 808,
 													"top": -96,
-													"width": 194.27001953125,
+													"width": 207.27001953125,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from 业务逻辑接口（自助终端）)",
+													"text": "(from 业务逻辑接口（终端机界面）)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -14129,11 +14129,11 @@
 													"containerExtending": false,
 													"left": -32,
 													"top": -96,
-													"width": 194.27001953125,
+													"width": 207.27001953125,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from 业务逻辑接口（自助终端）)",
+													"text": "(from 业务逻辑接口（终端机界面）)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -14347,7 +14347,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "业务逻辑接口（自助终端）",
+											"text": "业务逻辑接口（终端机界面）",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 3
 										}
@@ -17380,7 +17380,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "业务逻辑接口（自助终端）",
+											"text": "业务逻辑接口（终端机界面）",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 3
 										}
@@ -20705,7 +20705,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "业务逻辑接口（自助终端）",
+											"text": "业务逻辑接口（终端机界面）",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 3
 										}
@@ -22625,11 +22625,11 @@
 													"containerExtending": false,
 													"left": 0,
 													"top": -96,
-													"width": 194.27001953125,
+													"width": 207.27001953125,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from 业务逻辑接口（自助终端）)",
+													"text": "(from 业务逻辑接口（终端机界面）)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5
 												},
@@ -28013,7 +28013,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFUharPx+8zbbc="
 							},
-							"name": "业务逻辑接口（自助终端）",
+							"name": "业务逻辑接口（终端机界面）",
 							"visibility": "public",
 							"nodes": [
 								{
@@ -28682,7 +28682,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFUharPx+8zbbc="
 							},
-							"name": "业务逻辑接口（自助终端）",
+							"name": "业务逻辑接口（终端机界面）",
 							"visibility": "public",
 							"nodes": [
 								{
@@ -28761,7 +28761,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFUharPx+8zbbc="
 							},
-							"name": "业务逻辑接口（自助终端）",
+							"name": "业务逻辑接口（终端机界面）",
 							"visibility": "public",
 							"nodes": [
 								{
@@ -28805,7 +28805,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFUharPx+8zbbc="
 							},
-							"name": "业务逻辑接口（自助终端）",
+							"name": "业务逻辑接口（终端机界面）",
 							"visibility": "public",
 							"nodes": [
 								{
@@ -28917,7 +28917,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFUharPx+8zbbc="
 							},
-							"name": "业务逻辑接口（自助终端）",
+							"name": "业务逻辑接口（终端机界面）",
 							"visibility": "public",
 							"nodes": [
 								{
@@ -28969,7 +28969,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFUharPx+8zbbc="
 							},
-							"name": "业务逻辑接口（自助终端）",
+							"name": "业务逻辑接口（终端机界面）",
 							"visibility": "public"
 						},
 						{
@@ -28996,7 +28996,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFUharPx+8zbbc="
 							},
-							"name": "业务逻辑接口（自助终端）",
+							"name": "业务逻辑接口（终端机界面）",
 							"visibility": "public",
 							"nodes": [
 								{
